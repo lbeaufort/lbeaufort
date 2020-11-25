@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 [![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lbeaufort&show_icons=true&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbeaufort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 Source: https://github.com/anuraghazra/github-readme-stats
