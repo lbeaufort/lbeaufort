@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lbeaufort&show_icons=true&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats)
+[![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lbeaufort&show_icons=true&hide=["stars"]&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Source: https://github.com/anuraghazra/github-readme-stats
